@@ -1,0 +1,12 @@
+name: lkba
+title: lkba
+username: jmichaelrosenberg
+account: jmichaelrosenberg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13648919
+bundleId: 9647320
+url: https://jmichaelrosenberg.shinyapps.io/lkba/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
