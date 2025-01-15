@@ -1,0 +1,54 @@
+## Trail 23: Whiteoak Sink
+
+### Key Characteristics
+
+| Trail Name                    | Whiteoak Sink                       |
+|:------------------------------|:------------------------------------|
+| Region                        | Great Smoky Mountains National Park |
+| Trail \#                      | 21                                  |
+| Time Estimate - Hiking Fast   | 3 hours                             |
+| Time Estimate - Hiking Slowly | 5 hours                             |
+| Trail Distance (Miles)        | 4.6                                 |
+| Elevation Change              | Moderate                            |
+| Pets                          | Not Allowed                         |
+| Parking Pass/Entrance Fee     | Required                            |
+| Restroom(s)                   | No                                  |
+| Terrain                       | Dirt path                           |
+
+![](maps/trail-23-map.jpeg)
+
+### Overview
+
+This is the wildflower hike in the Smokies. It's a joy in mid-late April, depending on the year's weather. This hike starts on the kid-friendly Schoolhouse Gap trail and then connects to the Whiteoak Sink trail, which is a bit rockier but still hike-able by younger children. You may notice that Whiteoak Sink does not appear on the National Park Service trail map for the Smokies; technically, Whiteoak Sink is not an official trail in the Great Smoky Mountains National Park, and the key takeaway for hikers is to respect this unique area of the park by staying on the trail and refraining to pick wildflowers. It is a must-hike during wildflower season, but also worth a trip outside of that elusive spring period. Because of the length, best for younger kids who are carried some or all of the way, or kids who are comfortable with a longer hike.
+
+![](img/trail-23-figure-01.jpg)
+
+### Directions to the Trailhead
+
+| Trailhead Address         | Schoolhouse Gap Trailhead, J7GF+W9, Townsend, TN 37882 |
+|:--------------------------|:-------------------------------------------------------|
+| Trailhead GPS Coordinates | 35.62718, -83.72650                                    |
+
+The above address is for the parking area beside the trail. Please note it uses a Google Maps "Plus code", as this trailhead does not have a street address. This plus code only works in Google Maps. Park, and look for several large boulders next to a sign for the Schoolhouse Gap Trail to begin the hike.
+
+### Trail Description
+
+| Distance from Start | Description                                                                                                                                                                                                                                                                                                                            |
+|:--------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.0                 | Start on the Schoolhouse Gap Trail. Trail very gradually ascends.                                                                                                                                                                                                                                                                      |
+| 0.4                 | Trail climbs more steeply (but managably!).                                                                                                                                                                                                                                                                                            |
+| 1.1                 | Intersection with the trail to Whiteoak Sink. Note that Whiteoak Sink is not an official trail on the official trail map for the Great Smoky Mountains National Park; thus, the trail is not as well marked as most others. Turn left from the Schoolhouse Gap trail onto the trail to Whiteoak Sink. Descend for around .25 miles.    |
+| 1.4                 | Ascend steeply through a pretty and densely wooded forest.                                                                                                                                                                                                                                                                             |
+| 1.7                 | High point. Descend into Whiteoak Sink.                                                                                                                                                                                                                                                                                                |
+| 1.9                 | Reach an intersection. The trail to the right heads to Rainbow Cave Falls (different from and not to be confused with the Rainbow Falls Trail near Gatlinburg!). After stopping at the waterfall, turn around to return to the intersection of the primary trail.                                                                      |
+| 2.2                 | Turn right back onto the primary trail. Enter the part of the trail with the densest understory of wildflowers. Tread carefully; stay on the trail to not damage any of the plants near to the trail.                                                                                                                                  |
+| 2.35                | Reach the large bat cave ahead of the end of the trail. Still tread carefully (and do not attempt to enter the caves for your safety and to not endanger the bats). Optionally, turn right or left to explore more of this special area. Then, turn around to return along the trail you took into Whiteoak Sink. Return to the start. |
+| 4.6                 | Trailhead.                                                                                                                                                                                                                                                                                                                             |
+
+![](img/trail-23-figure-02.jpg)
+
+### Nearby
+
+-   Exploring the Cades Cove loop. A drive around the Cades Cove Loop can complement a hike to Whiteoak Sink. We recommend only driving this beautiful loop road outside of the busiest times (summer and fall weekends and holidays, mainly) when traffic can be intense. Consult the Abrams Fall hike for additional details on this area and nearby amenities.
+-   Visiting Townsend. Like the Chestnut Tops hike, visiting "The Peaceful Side of the Smokies," Townsend, is a great way to end this trip to the Great Smoky Mountains National Park.
+-   Hiking the West Prong Trail. The nearby West Prong Trail is a favorite that didn't quite make it into this book, but it is still a worthy destination. Instead of hiking up Schoolhouse Gap (like for this trail), cross the road and hike to the scenic backpacking site #18 as the turn-around spot beside a wood log bridge and pretty creek.

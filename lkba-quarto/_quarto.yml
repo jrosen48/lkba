@@ -1,15 +1,64 @@
 project:
   type: book
-
+  
 book:
-  title: "lkba-quarto"
-  author: "Norah Jones"
+  title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
+  author: "Katie Rosenberg and Joshua Rosenberg"
   date: "1/14/2025"
   chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - part: "Introduction"
+      chapters:
+        - index.qmd
+        - AAA - Considerations_for_Your_First_Hike.qmd
+        - AAA - Deepening_the_Experience.qmd
+        - AAA - Finding_a_Hike.qmd
+        - AAA - Top_5.qmd
+        - AAA__About This Book.qmd
+    - part: Sec - Knoxville.qmd
+      chapters: 
+        - Trail_1__Seven_Islands.qmd
+        - Trail_2__Ijams_Riverside.qmd
+        - Trail_3__Lakeshore_Park.qmd
+        - Trail_4__High_Ground_Park.qmd
+        - Trail_5__UT_Arboretum.qmd
+        - Trail_6__Knox-Blount_Greenway.qmd
+        - Trail_7__Sequoyah_Park.qmd
+        - Trail_8__Ijams_Crag.qmd
+        - Trail_9__William_Hastie.qmd
+        - Trail_10__Sharp_s_Ridge.qmd
+        - Trail_11__Norris_Dam.qmd
+        - Trail_12__House_Mountain.qmd
+    - part: Sec - The_Cumberland_Plateau.qmd
+      chapters:
+        - Trail_13__Emory_Falls.qmd
+        - Trail_14__Obed_Point.qmd
+        - Trail_15__Bandy_Creek.qmd
+        - Trail_16__Fall_Branch_Falls.qmd
+        - Trail_17__Twin_Arches.qmd
+        - Trail_18__Angel_Falls.qmd
+        - Trail_19___Honey_Creek.qmd
+    - part: Sec - The_Great_Smoky_Mountains_National_Park.qmd
+      chapters:
+        - Trail_20__Spruce_Flats_Falls.qmd
+        - Trail_21__Little_River.qmd
+        - Trail_22__Mouse_Creek.qmd
+        - Trail_23__Whiteoak_Sink.qmd
+        - Trail_24__Middle_Prong.qmd
+        - Trail_25__Abrams_Creek.qmd
+        - Trail_26__Look_Rock.qmd
+        - Trail_27__Chestnut_Top.qmd
+        - Trail_28__Abrams_Falls.qmd
+        - Trail_29__Andrews_Bald.qmd
+        - Trail_30__Alum_Cave_Bluffs.qmd
+    - part: "Conclusion and Appendices"
+      chapters:
+        - ZZZ - About_the_Authors.qmd
+        - ZZZ - Acknowledgments.qmd
+        - ZZZ - Appendices.qmd
+        - ZZZ - Bigger_Kids.qmd
+        - ZZZ - Finding_Community.qmd
+        - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
+        - ZZZ - References.qmd
 
 bibliography: references.bib
 
@@ -20,4 +69,3 @@ format:
     documentclass: scrreprt
 
 editor: visual
-
