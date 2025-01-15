@@ -1,5 +1,7 @@
 project:
-  type: book
+  type: website
+  output-dir: docs
+
   
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
